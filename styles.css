@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(110,130,100,.4);
+}
+#rcorners1 {
+  border-radius: 50px 50px 50px 50px;
+  background: rgb(110,130,100, .6);
+  padding: 15px;
+  width: 900px;
+  height: 1000px;
+}
